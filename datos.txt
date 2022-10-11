@@ -1,3 +1,4 @@
 Nombre: Kevin Gallego Guerra 
 edad: 35
 correo: kevingallego071@gmail.com
+color favorito : Verde
